@@ -35,12 +35,5 @@ I thrive on **continuous learning** and stay updated on emerging technologies an
 - **Data Analysis**  
 - **Backend Development**  
 
----
-
-### 🤝 **Let's Connect!**  
-I'm open to:  
-- 🤝 Exploring **collaboration opportunities**  
-- 💡 Discussing **innovative projects**  
-- 🌐 Connecting with like-minded professionals  
 
 Feel free to reach out and let's create something amazing together! 🚀  
